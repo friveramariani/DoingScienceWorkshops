@@ -7,8 +7,6 @@ In this workshop series, students...
 
 1) *Evaluate differences* between the linear scientific method often taught at schools and the **real** scientific method, which includes many epicycles at different stages. 
 
-![Comparison of Scientific Methods](/ScientificMethods.png)
-
 2) *Understand and Synthesize* each of the **phases**, and **epicycles**, of the scientific method
 
 3) *Design* workable goals with examples of scientific projects
