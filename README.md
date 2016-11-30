@@ -21,7 +21,7 @@ In this workshop series, students...
 
 8) Understand, elaborate, and communicate with a *scientific mindset*
 
-Currently, this workshop series is being offered to a group of talented students at the Thomas Armstrong High School (Ponce, Puerto Rico), which is a school that specializes in Science and Mathematics, with the contribution of **Mrs. Carmen Noble (Physics Teacher)** and **Ms. Pérez-Pérez (Teacher and Librarian)**. The current series of the workshop is titled ["**Doing Science: from Start to Finish**."](https://github.com/friveramariani/DoingScienceWorkshops/tree/master/DoingScinece_from_start_to_finish). These meetings are taking place **via video conference**. 
+Currently, this workshop series is being offered to a group of talented students at the Thomas Armstrong High School (Ponce, Puerto Rico), which is a school that specializes in Science and Mathematics, with the contribution of **Mrs. Carmen Noble (Physics Teacher)** and **Ms. Mary Ann Pérez-Pérez (Teacher and Librarian)**. The current series of the workshop is titled ["**Doing Science: from Start to Finish**."](https://github.com/friveramariani/DoingScienceWorkshops/tree/master/DoingScinece_from_start_to_finish). These meetings are taking place **via video conference**. 
 
 
 
